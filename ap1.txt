@@ -1,1 +1,1 @@
-vless://e76b90a3-83d1-43fa-8631-6769d67dd53c@172.64.68.252:2052?encryption=none&security=none&sni=app.ninja2018.workers.dev&fp=randomized&type=ws&host=app.ninja2018.workers.dev&path=%2F%3Fed%3D2048#app.ninja2018.workers.dev
+
