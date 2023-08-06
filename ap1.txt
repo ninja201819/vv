@@ -1,1 +1,13 @@
-
+- type: vless
+  name: app.ninja2018.workers.dev
+  server: 172.64.68.252
+  port: 2052
+  uuid: e76b90a3-83d1-43fa-8631-6769d67dd53c
+  network: ws
+  tls: false
+  udp: false
+    client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2048"
+    headers:
+      host: app.ninja2018.workers.dev
